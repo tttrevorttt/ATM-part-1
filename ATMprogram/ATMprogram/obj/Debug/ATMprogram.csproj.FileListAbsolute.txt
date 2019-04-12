@@ -1,0 +1,10 @@
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\bin\Debug\ATMprogram.exe.config
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\bin\Debug\ATMprogram.exe
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\bin\Debug\ATMprogram.pdb
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\obj\Debug\ATMprogram.csprojAssemblyReference.cache
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\obj\Debug\ATMprogram.Form1.resources
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\obj\Debug\ATMprogram.Properties.Resources.resources
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\obj\Debug\ATMprogram.csproj.GenerateResource.cache
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\obj\Debug\ATMprogram.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\obj\Debug\ATMprogram.exe
+C:\Users\Trevor\OneDrive\Documents\Aims\Spring 2019\C#\ATMprogram\ATMprogram\obj\Debug\ATMprogram.pdb
